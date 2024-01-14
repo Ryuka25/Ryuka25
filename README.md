@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;%E2%98%8E%EF%B8%8F+Contact+me+for+collaboration)](https://git.io/typing-svg)
-  [![GitHub Streak](https://streak-stats.demolab.com??user=Ryuka25&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ryuka25&theme=onedark&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;%E2%98%8E%EF%B8%8F+Contact+me+for+collaboration)](https://git.io/typing-svg)
+  [![](https://streak-stats.demolab.com??user=Ryuka25&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![](https://github-profile-trophy.vercel.app/?username=Ryuka25&theme=onedark&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <a>
@@ -15,6 +15,6 @@
   </a>
 </div>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 </div>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
