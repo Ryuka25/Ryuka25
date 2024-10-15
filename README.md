@@ -1,6 +1,3 @@
-![banner](https://media.licdn.com/dms/image/C5616AQHzOj0Jcw19Zw/profile-displaybackgroundimage-shrink_350_1400/0/1640237107949?e=1710979200&v=beta&t=pOuJmpf8-xf20to7R3LBx1Z254txglYXsaG_YoYMmsk)
-
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Lovanirina+(Ryuka);%E2%98%8E%EF%B8%8F+Contact+me+for+collaboration)](https://git.io/typing-svg)
@@ -34,3 +31,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Lovanirina&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
